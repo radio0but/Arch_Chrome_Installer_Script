@@ -12,8 +12,7 @@ if [ -f "$FILE" ]; then
 else 
 
 fi
-<
-echo
+
 if [ -d "$FOLDER" ]; then
     
     rm -r google-chrome-stable_current_x86_64/
