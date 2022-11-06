@@ -1,4 +1,4 @@
-#Arch Chrome Installer Script
+# Arch Chrome Installer Script
 
 Dependency : sudo wget ark
 
